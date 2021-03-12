@@ -1,5 +1,8 @@
 # Voice car - ESP8266 / ESP32 / Arduino + Ethernet W5100
-* Buy web interface at: martinius96@gmail.com
+
+# Support author for more projects
+* https://paypal.me/chlebovec
+
 # Supported commands in web interface
 * Move forward
 * Move backward
@@ -7,7 +10,7 @@
 * Turn right
 
 # Instructions
-* Use **Google Chrome and HTTPS connection** to target website! **(MOST IMPORTANT OF WHOLE SYSTEM)**
+* Use **Google Chrome and HTTPS connection** to target website! **(MOST IMPORTANT OF WHOLE SYSTEM)** - HTTP will not work, because Chrome is blocking microphone
 * Allow your microphone in settings of browser.
 * Click on microphone and say your voice command (list of them is available in webapp)
 * Magic will happen and microcontroler will read voice information and will make action
@@ -30,6 +33,3 @@
 
 # Web interface
 ![Voice control web interface](https://i.imgur.com/amaUX1W.png)
-
-# Support for more projects
-* https://paypal.me/chlebovec
