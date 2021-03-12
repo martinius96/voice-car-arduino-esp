@@ -16,10 +16,10 @@
 * Magic will happen and microcontroler will read voice information and will make action
 
 # Voice control web interface
-* Web interface available at: https://arduino.php5.sk/php_car/
+* Web interface available at: (not available at moment)
 
 # Project info:
-* Available at: https://arduino.php5.sk/voice-car-esp8266.php?lang=en
+* Available at: http://arduino.clanweb.eu/voice-car-esp8266.php?lang=en
 
 # Compatible for:
 * ESP8266
