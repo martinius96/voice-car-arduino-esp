@@ -10,6 +10,7 @@
 * Turn right
 
 # Instructions
+* Set hostname and url to **translation.txt** file in available sketches for Arduino, ESP8266, ESP32
 * Use **Google Chrome and HTTPS connection** to target website! **(MOST IMPORTANT OF WHOLE SYSTEM)** - HTTP will not work, because Chrome is blocking microphone
 * Allow your microphone in settings of browser.
 * Click on microphone and say your voice command (list of them is available in webapp)
